@@ -1,7 +1,7 @@
 # Add imports as needed
 import numpy
 
-from audioframes import AudioFrames
+from mydsp.audioframes import AudioFrames
 
 
 class RMSStream:

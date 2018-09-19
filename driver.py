@@ -4,8 +4,8 @@ driver.py
 
 import numpy
 
-from audioframes import AudioFrames
-from rmsstream import RMSStream
+from mydsp.audioframes import AudioFrames
+from mydsp.rmsstream import RMSStream
 import matplotlib.pyplot as plt
 import os
 
